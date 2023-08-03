@@ -1,4 +1,13 @@
 ### Hi there 👋
+I'm Emi, a frontend web developer.
+
+### 🚀 About Me
+I fell in love with coding in high school, after which I took a small detour until I started working in an IT company. I realized I wanted to restart learning to code and I did that for a while on my own creating several projects. Now I am working as a frontend developer. 
+
+### 🛠 Skills
+HTML, CSS, JavaScript, Typescript, React, React Native, Next.JS, Tailwind CSS, Storybook, Jest, React Testing Library, PostCSS, SASS, Bootstrap.
+
+
 
 <!--
 **e-cmt/e-cmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
