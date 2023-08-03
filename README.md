@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there 
 I'm Emi, a frontend web developer.
 
 ### 🚀 About Me
