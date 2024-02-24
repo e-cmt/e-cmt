@@ -1,8 +1,8 @@
 ### 👋 Hi there 
-I'm Emi, a frontend web developer.
+I'm Emi, a software developer.
 
 ### 🚀 About Me
-I am a frontend developer with 2+ years of proven experience. I fell in love with coding in high school, after which I took a small detour until I started working in an IT company.
+Talented software developer with 2+ years of proven experience working with React and JavaScript. Focused on writing reusable and scalable code as an independent team member. Proactive in removing blockers and creating long lasting solutions for clients.
 
 ### 🛠 Skills
 HTML, CSS, JavaScript, Typescript, React, React Native, Next.JS, Tailwind CSS, Storybook, Jest, React Testing Library, PostCSS, SASS, Bootstrap.
