@@ -2,24 +2,7 @@
 I'm Emi, a software developer.
 
 ### 🚀 About Me
-Talented software developer with 3 years of proven experience working with React and JavaScript. Focused on writing reusable and scalable code as an independent team member. Proactive in removing blockers and creating long lasting solutions for clients.
+Talented software developer with almost 5 years of proven experience working with React and JavaScript. Focused on writing reusable and scalable code as an independent team member. Proactive in removing blockers and creating long lasting solutions for clients.
 
 ### 🛠 Skills
-HTML, CSS, JavaScript, Typescript, React, React Native, Next.JS, Tailwind CSS, Storybook, Jest, React Testing Library, PostCSS, SASS, Bootstrap.
-
-
-
-<!--
-**e-cmt/e-cmt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML, CSS, JavaScript, Typescript, React, Angular, Vue.js, React Native, Next.JS, Tailwind CSS, Storybook, Jest, React Testing Library, PostCSS, SASS, Bootstrap.
